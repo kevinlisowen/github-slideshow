@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"I'm going to sing Cher Lloyd, by.. Cher Lloyd.." - Anonymous
 Use the left arrow to go back!
